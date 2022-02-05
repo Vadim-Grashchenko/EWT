@@ -1,9 +1,0 @@
-Задание
-=
-https://github.com/Virotor/ERGONOMIC-WEB-TECHNOLOGIES/blob/main/LWW1.pdf
-
-Ход работы
-=
-Установка Apache24
-Изменение в файле .\Apache24\conf\httpd.conf на место установки Apache24
-Создание хоста в папке .\Apache24\conf\extra\httpd-vhosts.conf
